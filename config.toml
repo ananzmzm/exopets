@@ -1,8 +1,9 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "/exopets"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "ExoPets | Landing Page"
 theme = "apsho"
+canonifyURLs = true
 
 # Navigation Bar
 [[menu.main]]
