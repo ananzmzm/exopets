@@ -1,10 +1,10 @@
 # MAIN base
-baseURL = "/exopets"
+baseURL = "/"
 languageCode = "en-us"
-title = "ExoPets | Landing Page"
+title = "Apsho | App landing template"
 theme = "apsho"
-uglyurls = true
 canonifyURLs = true
+uglyurls = true
 
 # Navigation Bar
 [[menu.main]]
