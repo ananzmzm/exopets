@@ -3,6 +3,7 @@ baseURL = "/exopets"
 languageCode = "en-us"
 title = "ExoPets | Landing Page"
 theme = "apsho"
+uglyurls = true
 canonifyURLs = true
 
 # Navigation Bar
